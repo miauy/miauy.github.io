@@ -1,0 +1,48 @@
+<!-- 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mia Uy</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="blurb">
+        <h1>Hi there, I'm Mia!</h1>
+        <p>Who am I?</p>
+      </div>
+    </div>
+    <footer>
+      <ul>
+        <li><a href="mailto:miaaynuy@gmail.com">Email Me!</a></li>
+        <li>
+          <a href="https://github.com/miauy">github.com/miauy</a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+</head>
+<body>
+    <div class="container">
+        <div class="blurb">
+            <h1>Hi there, I'm {{ site.author }}!</h1>
+            <p>{{ site.description }}</p>
+        </div>
+    </div>
+    <footer>
+        <ul>
+            <li><a href="mailto:{{ site.email }}">Email Me!</a></li>
+            <!-- If you have a GitHub URL in your config, you can add it as a variable and use it here -->
+            <li><a href="https://github.com/yourusername">Visit my GitHub</a></li>
+        </ul>
+    </footer>
+  </body>
+</html>
+
+
+

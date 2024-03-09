@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Mia Uy",
+    "label": "Student at The University of Miami",
+    "image": "",
+    "email": "miauy@miami.edu",
+    "phone": "(347) 697 9961",
+    "url": "miauy.me",
+    "summary": "A second-year Computer Science and Immersive Media major at the University of Miami, aspiring to pursue a career in Project or Product Management",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "miaauy",
+        "url": "https://www.linkedin.com/in/miaauy/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Invesco Advisors Inc.",
+      "position": "Research Analyst Intern – Fixed Income Factors Team",
+      "startDate": "06/23",
+      "endDate": "07/23",
+      "summary": [
+        "Led a project aimed at diagnosing factor exposures of Fixed Income Mutual Funds and identifying opportunities for performance growth within team’s metrics.",
+        "Drafted/transcribed multiple reports for Fixed Income Factors Team in collaboration with cross-functional teams, ensuring accurate and detailed reference notes pre/post meetings.",
+        "Utilized Excel and R for comprehensive data aggregation and analysis, focusing on industry, peer group data, and macroeconomic factors.",
+        "Maintained Excel-based models for EM Sovereign Credit and Macroeconomic Analysis daily to identify key performance factors, then refining tools ad-hoc for managers who required detailed and bespoke firm-specific factor analysis.",
+        "Presented two final recommendations to Team lead showcasing findings using various methodologies."
+      ],
+      "highlights": [
+        "Project leadership in diagnosing mutual fund exposures and growth opportunities",
+        "Cross-functional collaboration and detailed report drafting",
+        "Advanced data analysis and model maintenance with Excel and R",
+        "Presentation of strategic recommendations to team leadership"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Miami",
+      "location": "Coral Gables, FL",
+      "area": "Computer Science and Immersive Media",
+      "studyType": "Bachelors of Art and Bachelors of Science",
+      "startDate": "08/22",
+      "endDate": "05/26",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Bloomberg Market Concepts",
+      "date": "2023-06-29",
+      "issuer": "Bloomberg",
+      "url": "https://portal.bloombergforeducation.com/certificates/X1hEzSVkFAktxT8bp1U8Qjqe",
+      "icon": "fa-solid fa-calendar"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
+}
